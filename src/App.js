@@ -1,6 +1,6 @@
-import bitchTits1 from './choi.jpeg';
-import bitchTits2 from './choi2.jpeg';
-import bitchTits3 from './choi3.jpeg';
+import bitchTits1 from './choi.jpg';
+import bitchTits2 from './choi2.jpg';
+import bitchTits3 from './choi3.jpg';
 
 import './App.css';
 
